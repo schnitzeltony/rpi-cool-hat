@@ -3,7 +3,7 @@
   (general
     (thickness 1.6)
     (drawings 6)
-    (tracks 143)
+    (tracks 147)
     (zones 0)
     (modules 3)
     (nets 41)
@@ -21,7 +21,7 @@
 
   (layers
     (0 F.Cu signal hide)
-    (31 B.Cu signal hide)
+    (31 B.Cu signal)
     (32 B.Adhes user)
     (33 F.Adhes user)
     (34 B.Paste user)
@@ -43,7 +43,7 @@
   )
 
   (setup
-    (last_trace_width 0.254)
+    (last_trace_width 0.762)
     (user_trace_width 0.762)
     (trace_clearance 0.254)
     (zone_clearance 0.508)
@@ -517,10 +517,14 @@
   (segment (start 137.878118 68.58) (end 139.109119 67.348999) (width 0.254) (layer B.Cu) (net 4))
   (segment (start 141.478 68.58) (end 145.415 68.58) (width 0.254) (layer B.Cu) (net 4))
   (segment (start 140.246999 67.348999) (end 141.478 68.58) (width 0.254) (layer B.Cu) (net 4))
-  (segment (start 146.723999 69.811001) (end 147.105001 69.429999) (width 0.254) (layer B.Cu) (net 5))
-  (segment (start 147.105001 69.429999) (end 147.955 68.58) (width 0.254) (layer B.Cu) (net 5))
-  (segment (start 132.676001 69.811001) (end 146.723999 69.811001) (width 0.254) (layer B.Cu) (net 5))
-  (segment (start 131.445 68.58) (end 132.676001 69.811001) (width 0.254) (layer B.Cu) (net 5))
+  (segment (start 146.685 69.85) (end 144.272 69.85) (width 0.254) (layer B.Cu) (net 5))
+  (segment (start 132.676001 69.811001) (end 135.089001 69.811001) (width 0.254) (layer B.Cu) (net 5))
+  (segment (start 135.089001 69.811001) (end 138.733199 69.811001) (width 0.762) (layer B.Cu) (net 5))
+  (segment (start 144.272 69.85) (end 140.716 69.85) (width 0.762) (layer B.Cu) (net 5))
+  (segment (start 138.772198 69.85) (end 138.733199 69.811001) (width 0.254) (layer B.Cu) (net 5))
+  (segment (start 140.716 69.85) (end 138.772198 69.85) (width 0.254) (layer B.Cu) (net 5))
+  (segment (start 147.955 68.58) (end 146.685 69.85) (width 0.762) (layer B.Cu) (net 5))
+  (segment (start 131.445 68.58) (end 132.676001 69.811001) (width 0.762) (layer B.Cu) (net 5))
   (segment (start 133.985 73.66) (end 137.668 73.66) (width 0.254) (layer B.Cu) (net 6))
   (segment (start 137.668 73.66) (end 138.938 74.93) (width 0.254) (layer B.Cu) (net 6))
   (segment (start 145.415 73.66) (end 141.732 73.66) (width 0.254) (layer B.Cu) (net 6))
