@@ -7,7 +7,7 @@ Raspberry Pi 4 introduced conflicting demands when producing music:
 
 Since most (all?) cooling solutions do not allow stacked HATs this KiCad project suggests an adapter PCB as:
 
-![3d-preview](https://user-images.githubusercontent.com/2571823/71314772-52e55900-244f-11ea-86db-42d5223a4f84.png)
+![3d-preview](https://user-images.githubusercontent.com/2571823/71328625-89d47100-251a-11ea-8788-3c4cf56e014f.png)
 
 RPi is connected right / HAT connected left (upside-down) / cooler's fan connected to pins in the back
 
