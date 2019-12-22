@@ -13,5 +13,8 @@ RPi is connected right / HAT connected left (upside-down) / cooler's fan connect
 
 Note that project:
 
-* is in early stage: No PCBs ordered yet / nothing soldered / no tests
 * was created by Kicad 5.1.5 as shipped by Fedora 30
+* is in early stage: Nothing soldered / no tests performed yet
+
+For quick PCB order visit https://aisler.net/p/IRBRWUAC
+
