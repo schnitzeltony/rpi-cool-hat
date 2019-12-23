@@ -1,11 +1,9 @@
 # rpi-cool-hat
 
-Raspberry Pi 4 introduced conflicting demands when producing music:
+* At the least Raspberry Pi 4 makes additional cooling mandatory.
+* Most cooling solutions (all but oil?) do not allow stacked HATs (e.g musicians need audio).
 
-* Cooling gets mandatory to avoid throttling
-* For high quality audio a soundcard HAT is required
-
-Since most (all?) cooling solutions do not allow stacked HATs this KiCad project suggests an adapter PCB as:
+This KiCad project suggests an adapter PCB as:
 
 ![3d-preview](https://user-images.githubusercontent.com/2571823/71328625-89d47100-251a-11ea-8788-3c4cf56e014f.png)
 
