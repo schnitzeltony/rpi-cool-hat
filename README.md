@@ -15,11 +15,10 @@ Note that project:
 
 * was created by Kicad 5.1.5 as shipped by Fedora 30
 * is in early stage: Nothing soldered / no tests performed yet
+* author is not a profesional layouter - awaiting PRs/issues - teach me :grin:
 
 The only relation to Aisler author has is: their production was considered close at time and place of writing. So
 * if you don't share position on earth or whatever: drop [rpi-cool-hat.kicad_pcb](rpi-cool-hat.kicad_pcb)
    to a supplier of your choice
 * if your supplier does not accept Kicad: clone this project and go through gerber and send that to your supplier
 * or visit https://aisler.net/p/IRBRWUAC
-
-And author is not a proffesional layouter but awaiting PRs/issues - teach me :)
