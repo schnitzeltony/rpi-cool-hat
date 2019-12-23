@@ -1,13 +1,13 @@
 # rpi-cool-hat
 
-* At the least Raspberry Pi 4 makes additional cooling mandatory.
-* Most cooling solutions (all but oil?) do not allow stacked HATs (e.g musicians need audio).
+* At least Raspberry Pi 4 makes additional cooling mandatory.
+* Most cooling solutions (all but oil?) do not allow stacked HATs (and at least musicians do not accept builtin audio).
 
-This KiCad project suggests an adapter PCB as:
+This KiCad project suggests an adapter PCB letting coolers and HATs live in peace:
 
 ![3d-preview](https://user-images.githubusercontent.com/2571823/71328625-89d47100-251a-11ea-8788-3c4cf56e014f.png)
 
-RPi is connected right / HAT connected left (upside-down) / cooler's fan connected to pins in the back
+RPi is connected right / HAT connected left (upside-down) / cooler's fan connected to pins in the back.
 
 Note that project:
 
