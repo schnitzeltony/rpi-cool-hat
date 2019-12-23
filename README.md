@@ -22,4 +22,4 @@ The only relation to Aisler author has is: their production was considered close
 * if your supplier does not accept Kicad: clone this project and go through gerber and send that to your supplier
 * or visit https://aisler.net/p/IRBRWUAC
 
-And author am not a proffesional layouter - awaiting PRs - teach me :)
+And author is not a proffesional layouter but awaiting PRs/issues - teach me :)
