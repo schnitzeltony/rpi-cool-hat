@@ -3,7 +3,7 @@
 * At least Raspberry Pi 4 makes additional cooling mandatory.
 * Most cooling solutions (all but oil?) do not allow stacked HATs (and at least musicians do not accept builtin audio).
 
-This KiCad project suggests an adapter PCB letting coolers and HATs live in peace:
+This KiCad project suggests a glue-PCB letting coolers and HATs live in peace:
 
 ![3d-preview](https://user-images.githubusercontent.com/2571823/71328625-89d47100-251a-11ea-8788-3c4cf56e014f.png)
 
