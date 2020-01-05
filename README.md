@@ -13,7 +13,7 @@ Note that project:
 
 * was created by Kicad 5.1.5 as shipped by Fedora 30
 * is in early stage: Nothing soldered / no tests performed yet
-* 's author is not a profesional layouter - awaiting PRs/issues - teach me :grin:
+* 's author is not a professional layouter - awaiting PRs/issues - teach me :grin:
 
 If you want one:
 
