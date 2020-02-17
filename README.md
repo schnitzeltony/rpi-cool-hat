@@ -5,9 +5,9 @@
 
 This KiCad project suggests a glue-PCB letting coolers and HATs live in peace:
 
-![3d-preview](https://user-images.githubusercontent.com/2571823/71328625-89d47100-251a-11ea-8788-3c4cf56e014f.png)
+![3d-preview](https://user-images.githubusercontent.com/2571823/74680400-ccd05f00-51c0-11ea-8b42-30c72e02016b.png)
 
-RPi is connected right / HAT connected left (upside-down) / cooler's fan connected to pins in the back.
+RPi is connected left / HAT connected right (upside-down) / cooler's fan connected to pins in the back.
 
 Note that project:
 
