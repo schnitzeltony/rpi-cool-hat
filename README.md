@@ -32,5 +32,5 @@ RPi is connected left / HAT connected right (upside-down) / cooler's fan connect
 * Start soldering with J1
 * When using Ice Tower Cooler cables are a bit short. To get around: Unmount fan, rotate 90° clockwise and mount again. Be careful not to over-tighten screws!
 * For Ice Tower Cooler noise can be reduced siginificantly by using 3.3V supply on J1 (as written in the handbook). With reduced voltage I never saw CPU temerature rising above 45°
-* If space is limited on might want to use a 90° variant of J2: ![90-degree](https://user-images.githubusercontent.com/2571823/75151342-c1bc8800-5706-11ea-9086-58c96e7bd83e.JPG)
+* If space is limited one might want to use a 90° variant of J2: ![90-degree](https://user-images.githubusercontent.com/2571823/75151342-c1bc8800-5706-11ea-9086-58c96e7bd83e.JPG)
 
